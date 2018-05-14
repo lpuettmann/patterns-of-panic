@@ -65,7 +65,3 @@ ggplot() +
        x = NULL, y = NULL, 
        caption = paste0("Note: Normalized share of negative newspaper language about",
                         "\n financial markets, averaged across five newspapers."))
-
-
-
-

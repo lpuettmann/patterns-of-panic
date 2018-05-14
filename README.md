@@ -3,6 +3,7 @@
 Links:
 
 - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156287)
+- [Blog post](http://lukaspuettmann.com//2018/04/08/all-the-news/)
 
 ## Data
 
@@ -22,6 +23,12 @@ Both datasets are in comma separated files and contain the following variables:
 - `val`: The numerical indicator value.
 
 The baseline indicator takes "all" newspapers, has mood "negative" and uses detrending "none".
+
+## Use
+
+I'm providing some [codes](https://github.com/lpuettmann/patterns-of-panic/blob/master/explore_pp.R) here to plot the baseline indicator:
+
+![Patterns of panic baseline financial stress indicator](https://github.com/lpuettmann/patterns-of-panic/blob/master/indicator.jpg)
 
 ## License
 
