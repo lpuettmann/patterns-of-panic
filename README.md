@@ -7,7 +7,7 @@ Links:
 
 ## Data
 
-There are two datasets in this repository (not yet, coming soon):
+There are two datasets in this repository:
 
 - *pp_quarterly.csv*: Quarterly dataset
 - *pp_monthly.csv*: Monthly dataset
