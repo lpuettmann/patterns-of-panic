@@ -3,6 +3,7 @@
 Links:
 
 - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156287)
+- [Website](http://policyuncertainty.com/financial_stress.html)
 - [Blog post](http://lukaspuettmann.com//2018/04/08/all-the-news/)
 
 ## Data
@@ -22,7 +23,7 @@ Both datasets are in comma separated files and contain the following variables:
 - `detrending`: Either no detrending or one of three methods (on the level of newspapers, before averaging).
 - `val`: The numerical indicator value.
 
-The baseline indicator takes "all" newspapers, has mood "negative" and uses detrending "none".
+The baseline indicator takes "all" newspapers, has mood "negative" and uses detrending "none". For further explanations and for easier to use Excel files that only contain the baseline versions of the data, see [here](http://policyuncertainty.com/financial_stress.html).
 
 ## Use
 
