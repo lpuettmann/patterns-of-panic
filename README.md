@@ -13,6 +13,8 @@ There are two datasets in this repository:
 - *pp_quarterly.csv*: Quarterly dataset
 - *pp_monthly.csv*: Monthly dataset
 
+Email me if you are interested in higher-frequency (weekly, daily) indicators.
+
 Both datasets are in comma separated files and contain the following variables:
 
 - `year`: Year as number.
